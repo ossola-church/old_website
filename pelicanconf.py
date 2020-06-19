@@ -34,7 +34,7 @@ PROFILE_IMAGE = 'avatar.png'
 
 # Social widget
 SOCIAL = (('email','info@chiesaevangelicaossola.com'),
-          ('github', 'https://github.com/davins90'),
+          ('github', 'https://github.com/ossola-church'),
           ('facebook','https://www.facebook.com/'))
 
 
